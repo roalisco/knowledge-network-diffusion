@@ -1,0 +1,6 @@
+"","adopted","","","","","","","","","","","","","  cover"
+"8","0.022","when","lagged_nat_expo","< ","0.12","&","factor(per)","is","1996 or 1997 or 1998 or 1999 or 2000 or 2001 or 2002 or 2003 or 2004 or 2005 or 2006 or 2007 or 2008 or 2009 or 2010 or 2011","&","lagged_int_expo","< ","0.37","85%"
+"5","0.197","when","lagged_nat_expo","< ","0.12","&","factor(per)","is","2012 or 2013 or 2014 or 2015 or 2016","","","","","10%"
+"6","0.279","when","lagged_nat_expo",">=","0.12","&","factor(per)","is","1998 or 1999 or 2000 or 2001 or 2002 or 2003 or 2004 or 2006 or 2007 or 2008 or 2010 or 2011 or 2013","","","",""," 2%"
+"9","0.421","when","lagged_nat_expo","< ","0.12","&","factor(per)","is","1996 or 1997 or 1998 or 1999 or 2000 or 2001 or 2002 or 2003 or 2004 or 2005 or 2006 or 2007 or 2008 or 2009 or 2010 or 2011","&","lagged_int_expo",">=","0.37"," 1%"
+"7","0.564","when","lagged_nat_expo",">=","0.12","&","factor(per)","is","2005 or 2009 or 2012 or 2014 or 2015 or 2016","","","",""," 2%"

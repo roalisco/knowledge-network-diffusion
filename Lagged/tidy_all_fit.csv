@@ -1,0 +1,61 @@
+term,Odds,,Risk
+lagged_int_expo,1.96,***,0.66
+lagged_reg_expo,2.46,***,0.71
+lagged_nat_expo,2.66,***,0.73
+mob_share,0.90,,0.47
+inst_size,1.00,**,0.50
+Asia-Pacific (core),0.05,***,0.04
+Asia-Pacific (periphery),0.03,***,0.03
+EU-COST (core),0.06,***,0.06
+EU-COST (periphery),0.04,***,0.04
+LAZEN,0.03,***,0.03
+North America,0.06,***,0.05
+lagged_int_expo:lagged_reg_expo,0.80,***,0.45
+lagged_int_expo:lagged_nat_expo,0.77,***,0.44
+lagged_int_expo:mob_share,1.15,,0.54
+lagged_int_expo:inst_size,1.00,***,0.50
+lagged_int_expo:Asia-Pacific (periphery),0.73,**,0.42
+lagged_int_expo:EU-COST (core),0.77,*,0.44
+lagged_int_expo:EU-COST (periphery),0.80,*,0.44
+lagged_int_expo:LAZEN,0.84,,0.46
+lagged_int_expo:North America,0.99,,0.50
+lagged_reg_expo:lagged_nat_expo,0.73,***,0.42
+lagged_reg_expo:mob_share,1.19,,0.54
+lagged_reg_expo:inst_size,1.00,.,0.50
+lagged_reg_expo:Asia-Pacific (periphery),1.64,.,0.62
+lagged_reg_expo:EU-COST (core),0.94,,0.48
+lagged_reg_expo:EU-COST (periphery),0.75,,0.43
+lagged_reg_expo:LAZEN,1.77,,0.64
+lagged_reg_expo:North America,0.63,*,0.39
+lagged_nat_expo:mob_share,0.92,,0.48
+lagged_nat_expo:inst_size,1.00,,0.50
+lagged_nat_expo:Asia-Pacific (periphery),1.90,***,0.66
+lagged_nat_expo:EU-COST (core),0.52,***,0.34
+lagged_nat_expo:EU-COST (periphery),1.47,***,0.59
+lagged_nat_expo:LAZEN,2.01,***,0.67
+lagged_nat_expo:North America,0.72,***,0.42
+mob_share:inst_size,1.00,,0.50
+mob_share:Asia-Pacific (periphery),1.51,,0.60
+mob_share:EU-COST (core),0.87,,0.47
+mob_share:EU-COST (periphery),1.13,,0.53
+mob_share:LAZEN,1.29,,0.56
+mob_share:North America,1.05,,0.51
+inst_size:Asia-Pacific (periphery),1.01,*,0.50
+inst_size:EU-COST (core),1.00,,0.50
+inst_size:EU-COST (periphery),1.01,***,0.50
+inst_size:LAZEN,1.01,.,0.50
+inst_size:North America,1.01,***,0.50
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

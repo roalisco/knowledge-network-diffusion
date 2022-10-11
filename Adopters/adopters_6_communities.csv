@@ -1,0 +1,133 @@
+year,num,prop,rate,Community
+1996,3,0.00,0.00,EU-COST (core)
+1997,23,0.02,6.67,EU-COST (core)
+1998,46,0.03,1.00,EU-COST (core)
+1999,63,0.04,0.37,EU-COST (core)
+2000,76,0.05,0.21,EU-COST (core)
+2001,89,0.06,0.17,EU-COST (core)
+2002,106,0.07,0.19,EU-COST (core)
+2003,125,0.08,0.18,EU-COST (core)
+2004,156,0.11,0.25,EU-COST (core)
+2005,180,0.12,0.15,EU-COST (core)
+2006,203,0.14,0.13,EU-COST (core)
+2007,237,0.16,0.17,EU-COST (core)
+2008,277,0.19,0.17,EU-COST (core)
+2009,305,0.21,0.10,EU-COST (core)
+2010,345,0.23,0.13,EU-COST (core)
+2011,400,0.27,0.16,EU-COST (core)
+2012,432,0.29,0.08,EU-COST (core)
+2013,478,0.32,0.11,EU-COST (core)
+2014,523,0.36,0.09,EU-COST (core)
+2015,577,0.39,0.10,EU-COST (core)
+2016,629,0.43,0.09,EU-COST (core)
+2017,662,0.45,0.05,EU-COST (core)
+1996,8,0.00,0.00,North America
+1997,49,0.02,5.13,North America
+1998,90,0.04,0.84,North America
+1999,110,0.05,0.22,North America
+2000,145,0.07,0.32,North America
+2001,174,0.09,0.20,North America
+2002,213,0.11,0.22,North America
+2003,251,0.12,0.18,North America
+2004,303,0.15,0.21,North America
+2005,350,0.17,0.16,North America
+2006,395,0.20,0.13,North America
+2007,439,0.22,0.11,North America
+2008,482,0.24,0.10,North America
+2009,537,0.27,0.11,North America
+2010,577,0.29,0.07,North America
+2011,638,0.32,0.11,North America
+2012,693,0.34,0.09,North America
+2013,758,0.38,0.09,North America
+2014,815,0.41,0.08,North America
+2015,873,0.43,0.07,North America
+2016,930,0.46,0.07,North America
+2017,1006,0.50,0.08,North America
+1996,0,0.00,0.00,LAZEN
+1997,0,0.00,0.00,LAZEN
+1998,0,0.00,0.00,LAZEN
+1999,0,0.00,0.00,LAZEN
+2000,1,0.00,1.00,LAZEN
+2001,2,0.01,1.00,LAZEN
+2002,4,0.01,1.00,LAZEN
+2003,5,0.01,0.25,LAZEN
+2004,6,0.02,0.20,LAZEN
+2005,9,0.03,0.50,LAZEN
+2006,11,0.03,0.22,LAZEN
+2007,18,0.05,0.64,LAZEN
+2008,25,0.07,0.39,LAZEN
+2009,29,0.09,0.16,LAZEN
+2010,37,0.11,0.28,LAZEN
+2011,47,0.14,0.27,LAZEN
+2012,54,0.16,0.15,LAZEN
+2013,63,0.19,0.17,LAZEN
+2014,78,0.23,0.24,LAZEN
+2015,93,0.28,0.19,LAZEN
+2016,110,0.33,0.18,LAZEN
+2017,127,0.38,0.15,LAZEN
+1996,1,0.00,0.00,EU-COST (periphery)
+1997,15,0.01,14.00,EU-COST (periphery)
+1998,20,0.01,0.33,EU-COST (periphery)
+1999,33,0.02,0.65,EU-COST (periphery)
+2000,45,0.03,0.36,EU-COST (periphery)
+2001,56,0.04,0.24,EU-COST (periphery)
+2002,67,0.05,0.20,EU-COST (periphery)
+2003,84,0.06,0.25,EU-COST (periphery)
+2004,93,0.07,0.11,EU-COST (periphery)
+2005,116,0.08,0.25,EU-COST (periphery)
+2006,144,0.10,0.24,EU-COST (periphery)
+2007,172,0.12,0.19,EU-COST (periphery)
+2008,205,0.15,0.19,EU-COST (periphery)
+2009,234,0.17,0.14,EU-COST (periphery)
+2010,270,0.19,0.15,EU-COST (periphery)
+2011,306,0.22,0.13,EU-COST (periphery)
+2012,367,0.26,0.20,EU-COST (periphery)
+2013,436,0.31,0.19,EU-COST (periphery)
+2014,503,0.36,0.15,EU-COST (periphery)
+2015,556,0.40,0.11,EU-COST (periphery)
+2016,609,0.43,0.10,EU-COST (periphery)
+2017,678,0.48,0.11,EU-COST (periphery)
+1996,0,0.00,0.00,Asia_Pacific (core)
+1997,8,0.00,8000000000000000.00,Asia_Pacific (core)
+1998,14,0.01,0.75,Asia_Pacific (core)
+1999,22,0.01,0.57,Asia_Pacific (core)
+2000,38,0.02,0.73,Asia_Pacific (core)
+2001,52,0.03,0.37,Asia_Pacific (core)
+2002,68,0.03,0.31,Asia_Pacific (core)
+2003,85,0.04,0.25,Asia_Pacific (core)
+2004,113,0.06,0.33,Asia_Pacific (core)
+2005,140,0.07,0.24,Asia_Pacific (core)
+2006,165,0.08,0.18,Asia_Pacific (core)
+2007,201,0.10,0.22,Asia_Pacific (core)
+2008,241,0.12,0.20,Asia_Pacific (core)
+2009,300,0.15,0.24,Asia_Pacific (core)
+2010,344,0.17,0.15,Asia_Pacific (core)
+2011,392,0.19,0.14,Asia_Pacific (core)
+2012,472,0.23,0.20,Asia_Pacific (core)
+2013,547,0.27,0.16,Asia_Pacific (core)
+2014,637,0.32,0.16,Asia_Pacific (core)
+2015,718,0.36,0.13,Asia_Pacific (core)
+2016,796,0.39,0.11,Asia_Pacific (core)
+2017,889,0.44,0.12,Asia_Pacific (core)
+1996,0,0.00,0.00,Asia_Pacific (periphery)
+1997,1,0.00,1000000000000000.00,Asia_Pacific (periphery)
+1998,2,0.00,1.00,Asia_Pacific (periphery)
+1999,5,0.01,1.50,Asia_Pacific (periphery)
+2000,9,0.01,0.80,Asia_Pacific (periphery)
+2001,10,0.02,0.11,Asia_Pacific (periphery)
+2002,12,0.02,0.20,Asia_Pacific (periphery)
+2003,16,0.03,0.33,Asia_Pacific (periphery)
+2004,19,0.03,0.19,Asia_Pacific (periphery)
+2005,20,0.03,0.05,Asia_Pacific (periphery)
+2006,24,0.04,0.20,Asia_Pacific (periphery)
+2007,32,0.05,0.33,Asia_Pacific (periphery)
+2008,38,0.06,0.19,Asia_Pacific (periphery)
+2009,50,0.08,0.32,Asia_Pacific (periphery)
+2010,60,0.10,0.20,Asia_Pacific (periphery)
+2011,76,0.12,0.27,Asia_Pacific (periphery)
+2012,103,0.17,0.36,Asia_Pacific (periphery)
+2013,120,0.19,0.17,Asia_Pacific (periphery)
+2014,151,0.24,0.26,Asia_Pacific (periphery)
+2015,175,0.28,0.16,Asia_Pacific (periphery)
+2016,212,0.34,0.21,Asia_Pacific (periphery)
+2017,263,0.42,0.24,Asia_Pacific (periphery)
